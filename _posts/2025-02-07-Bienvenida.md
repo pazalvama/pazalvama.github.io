@@ -9,9 +9,6 @@ tags: [GitHub Pages, Markdown, Código]     # TAG names should always be lowerca
 description: Bienvenidos y bienvenidas a la página web.
 ---
 
----
-comments: false
----
 
 Hola. Este es un **post de prueba** para verificar cómo funciona este sistema.
 
